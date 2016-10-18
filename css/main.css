@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+}
+
+.container {
+  .full-background {
+    height: 100vh;  
+    background: url('http://www.freebiesgallery.com/wp-content/uploads/2012/08/free-backgrounds-20.jpg');
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin-bottom: 50px;
+    h1 {
+      font-family: "Arial Black", Gadget, sans-serif;
+      text-align: center; 
+    }
+  }
+
+  .text {
+    max-width: 500px;
+    margin: 0 auto 50px;
+  }
+}
