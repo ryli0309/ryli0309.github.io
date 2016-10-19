@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Tiny Corner of Pittsburgh</title>
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+ 
+<body>
+
+	<header>
+		<div class="wrapper">
+		<h1>Ritter's Diner<span class="color">.</span></h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Page1</a></li>
+				<li><a href="#">MyPitt</a></li>
+				<li><a href="#">Class</a></li>
+			</ul>
+		</nav>
+	</div>
+	</header>
+	
+	<div id="main-image">
+		<div class="wrapper">
+	</div>
+	</div>
+	
+	
+	<div id="image-gallery">
+	<div class="wrapper">
+		<article style="background-image: url('INSERT');">
+			<div class="overlay">
+				<h4>Image 1</h4>
+				<p><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod leo a nibh dignissim tincidunt nam.</small></p>
+			</div>
+		</article>
+		<article style="background-image: url('INSERT');">
+			<div class="overlay">
+				<h4>Image 2</h4>
+				<p><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod leo a nibh dignissim tincidunt nam.</small></p>
+			</div>
+		</article>
+		<article style="background-image: url('INSERT');">
+			<div class="overlay">
+				<h4>Image 3</h4>
+				<p><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod leo a nibh dignissim tincidunt nam.</small></p>
+			</div>
+		</article>
+		<article style="background-image: url('INSERT');">
+			<div class="overlay">
+				<h4>Image 4</h4>
+				<p><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod leo a nibh dignissim tincidunt nam.</small></p>
+			</div>
+		</article><div class="clear"></div>
+	</div>
+</div>
+	
+	
+	<footer>
+		<div class="wrapper">
+			<div id="footer">
+			<p>Copyright will go here</p>
+			<p>Other?</p>
+		</div>
+		</div>
+	</footer>
+    
+</body>
+</html>
