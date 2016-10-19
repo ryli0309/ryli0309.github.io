@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>my tiny corner of pittsburgh</title>
+	
+	<link rel="stylesheet" type="text/css" href="/css/photos.css">
+	
+	<link href="https://fonts.googleapis.com/css?family=Cantarell" rel="stylesheet">  
+</head>
+ 
+<body>
+
+	<header>
+		<div class="wrapper">
+		<h1>RITTER'S DINER</h1>
+		<nav>
+			<ul>
+				<li><a href="#">HOME</a></li>
+				<li><a href="#">ABOUT</a></li>
+				<li><a href="#">MAP</a></li>
+				<li><a href="#">PHOTOS</a></li>
+			</ul>
+		</nav>
+	</div>
+	</header>
+	
+	<div id="main-image">
+		<div class="wrapper">
+	</div>
+	</div>
+	
+	
+	<div id="image-gallery">
+	<div class="wrapper">
+		<article style="background-image: url('INSERT');">
+			<div class="overlay">
+				<h4>Image 1</h4>
+				<p><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod leo a nibh dignissim tincidunt nam.</small></p>
+			</div>
+		</article>
+		<article style="background-image: url('INSERT');">
+			<div class="overlay">
+				<h4>Image 2</h4>
+				<p><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod leo a nibh dignissim tincidunt nam.</small></p>
+			</div>
+		</article><div class="clear"></div>
+	</div>
+</div>
+	
+	
+	<footer>
+		<div class="wrapper">
+			<div id="footer">
+			<p>Copyright will go here</p>
+			<p>Other?</p>
+		</div>
+		</div>
+	</footer>
+    
+</body>
+</html>
