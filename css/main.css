@@ -3,19 +3,17 @@ body {
 	color: #777;
 	font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
-
 p {
 	line-height: 20px;
 	margin-bottom: 20px;
 }
 
 h1 {
-	font-family: 'Arial Bold', serif;
-	font-weight: bold;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: normal;
 	color: #444;
-	font-size: 45px;
-	margin-bottom: 20px;
-}
+	font-size: 37px;
+	margin-bottom: 20px;}
 
 	header {
 		height: 120px;
@@ -42,7 +40,7 @@ h1 {
 
 	header nav ul li a {
 		color: #444;
-		text-transform: uppercase;
+		text-transform: lowercase;
 		font-weight: bold;
 		display: block;
 		margin-right: 20px;
