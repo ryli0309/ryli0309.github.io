@@ -41,18 +41,6 @@
 				<h4>Image 2</h4>
 				<p><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod leo a nibh dignissim tincidunt nam.</small></p>
 			</div>
-		</article>
-		<article style="background-image: url('INSERT');">
-			<div class="overlay">
-				<h4>Image 3</h4>
-				<p><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod leo a nibh dignissim tincidunt nam.</small></p>
-			</div>
-		</article>
-		<article style="background-image: url('INSERT');">
-			<div class="overlay">
-				<h4>Image 4</h4>
-				<p><small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod leo a nibh dignissim tincidunt nam.</small></p>
-			</div>
 		</article><div class="clear"></div>
 	</div>
 </div>
