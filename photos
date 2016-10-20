@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -34,10 +33,9 @@
 		<article>
 			<h3>MOOD BOARD</h3>
 			<p>somewhere in the world, it's always time for breakfast.</p>
-			
-			<a href="https://www.facebook.com/abbywangphotography/?pnref=lhc"><img src="https://github.com/ryli0309/MyImages/blob/master/featured%20photos.png?raw=true" alt="mood board" /></a>
-			
 			<p>special thanks to <b>abigail wang photography</b> for taking these photos with me.</p>
+			<p>click anywhere on the mood board below to visit her facebook page.</p>
+			<a href="https://www.facebook.com/abbywangphotography/?pnref=lhc"><img src="https://github.com/ryli0309/MyImages/blob/master/featured%20photos.png?raw=true" alt="mood board" /></a>
 		</article>
 	</div>
 	</div>
