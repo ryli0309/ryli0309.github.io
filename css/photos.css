@@ -1,9 +1,7 @@
 body {
 
 	background-color: #fff;
-
 	color: #777;
-
 	font: normal 14px Garamond, serif;
 
 }
@@ -11,7 +9,6 @@ body {
 p {
 
 	line-height: 20px;
-
 	margin-bottom: 20px;
 
 }
@@ -21,35 +18,23 @@ p {
 h1 {
 
 	font-family: 'Cantarell', sans-serif;
-
 	font-weight: normal;
-
 	color: #444;
-
 	font-size: 24px;
-
 	margin-bottom: 20px;
 
 }
 
 
-
 	header {
-
 		height: 120px;
-
 	}
-
-
 
 	header h1 {
 
 		float: left;
-
 		margin-top: 32px;
-
 	}
-
 
 
 	header nav {
@@ -58,14 +43,10 @@ h1 {
 
 	}
 
-
-
 	header nav ul li {
 
 		float: left;
-
 		display: inline-block;
-
 		margin-top: 50px;
 
 	}
@@ -73,29 +54,19 @@ h1 {
 	header nav ul li a {
 
 		color: #9C9C9C;
-
 		font-family: 'Cantarell', sans-serif;
-
 		font-weight: normal;
-
 		display: block;
-
 		margin-right: 20px;
-
 	}
 
 
-
-h3 {
+h3 {	
 
 	font-size: 24px;
-
 	color: #444;
-
 	font-family: 'Cantarell', sans-serif;
-
 	font-weight: normal;
-
 	margin-bottom: 20px;
 
 }
@@ -105,12 +76,10 @@ h3 {
 	#main-text {
 
 		background-color: #fff;
-
 		padding: 60px 0;
-
 		text-align: center;
 
-	}
+		}
 
 
 
