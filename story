@@ -7,7 +7,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
     <title>my tiny corner of pittsburgh</title>
-f    
+   
 	  <link rel="stylesheet" type="text/css" href="/css/story.css">
 
     <link href="https://fonts.googleapis.com/css?family=Cantarell" rel="stylesheet">  
@@ -17,7 +17,7 @@ f
 
 <body>
 	<header>
-o		<div class="wrapper">
+		<div class="wrapper">
 		<h1>RITTER'S DINER</h1>
 		<nav>
 			<ul>
