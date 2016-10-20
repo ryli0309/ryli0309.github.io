@@ -103,7 +103,7 @@ h3 {
 
 footer {
 
-	padding: 60px 20;
+	padding: 20px 0;
 	background-color: #fff;
 	width: 940px;
 
@@ -114,7 +114,7 @@ footer {
 	#footer {
 
 		border-top: 1px solid #777;
-		width: 380px;
+		width: 200px;
 		float: left;
 		padding-left: 20px;
 		margin-top: 10px;
