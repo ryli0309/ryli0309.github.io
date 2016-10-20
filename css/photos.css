@@ -4,7 +4,7 @@ body {
 
 	color: #777;
 
-	font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font: normal 12px Garamond, serif;
 
 }
 
@@ -175,35 +175,6 @@ a:hover {
 	color: #444;
 
 }
-
-
-
-strong {
-
-	font-weight: bold;
-
-}
-
-
-
-small {
-
-	font-size: 13px;
-
-	color: #777;
-
-	font-style: italic;
-
-}
-
-
-
-.clear {
-
-	clear: both;
-
-}
-
 
 
 .wrapper {
