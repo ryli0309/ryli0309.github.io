@@ -114,11 +114,10 @@ footer {
 
 	#footer {
 
+		border-top: 1 px solid #777;
 		width: 380px;
-		float: left;
 		padding-left: 20px;
 		margin-top: 10px;
-		border-top: 1 px solid #777
 
 }
 
