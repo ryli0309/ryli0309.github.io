@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+    <title>my tiny corner of pittsburgh</title>
+    
+	  <link rel="stylesheet" type="text/css" href="/css/photos.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Cantarell" rel="stylesheet">  
+
+</head>
+
+
+<body>
+	<header>
+		<div class="wrapper">
+		<h1>RITTER'S DINER</h1>
+		<nav>
+			<ul>
+				<li><a href="#">HOME</a></li>
+				<li><a href="#">ABOUT</a></li>
+				<li><a href="#">LOCATION</a></li>
+				<li><a href="#">MOOD BOARD</a></li>
+			</ul>
+
+		</nav>
+	</div>
+
+	</header>
+
+	<div id="main-text">
+		<div class="wrapper">
+		<article>
+    
+			<h3>LOCATION</h3>
+
+			<p>ORDERED LIST</p>
+
+			<a href="#"><img src="https://github.com/ryli0309/MyImages/blob/master/Ritter's%20Map.png?raw=true" alt="ritter's google map" /></a>
+
+		</article>
+
+	</div>
+
+
+	</div>
+	<footer>
+		<div class="wrapper">
+			<div id="footer">
+			<p>Copyright will go here</p>
+			<p>Other?</p>
+		</div>
+		</div>
+
+	</footer>
+
+</body>
+
+</html>
