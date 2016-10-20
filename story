@@ -8,7 +8,7 @@
     
     <title>my tiny corner of pittsburgh</title>
 f    
-	  <link rel="stylesheet" type="text/css" href="/css/photos.css">
+	  <link rel="stylesheet" type="text/css" href="/css/story.css">
 
     <link href="https://fonts.googleapis.com/css?family=Cantarell" rel="stylesheet">  
 
