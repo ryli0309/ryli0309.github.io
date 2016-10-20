@@ -103,22 +103,14 @@ h3 {
 
 
 footer {
-
-	padding: 20px 0;
+	padding: 60px 0;
 	background-color: #fff;
-	width: 940px;
-
 }
 
-
-
 	#footer {
-
-		border-top: 1 px solid #777;
 		width: 380px;
-		padding-left: 20px;
+		float: left;
 		margin-top: 10px;
-
 }
 
 
