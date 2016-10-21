@@ -112,6 +112,18 @@ h3 {
 
 	}
 
+	#main-page-intro {
+		padding: 60px 0;
+		text-align: center;
+}
+
+	#main-page-intro h3 {
+		display: block;
+		margin: 0 auto 20px auto;
+		width: 400px;
+		border-bottom: 1px solid #3b8293;
+		padding: 0 0 20px 0;
+}
 
 
 footer {
