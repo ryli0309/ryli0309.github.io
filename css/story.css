@@ -150,6 +150,12 @@ footer {
 
 	#footer {
 
+		font-family: 'Cantarell', san-serif
+			
+		font-weight: normal;
+		
+		font-size: 20px
+		
 		width: 380px;
 
 		float: left;
