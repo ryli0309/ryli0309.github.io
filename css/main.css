@@ -95,6 +95,7 @@ h3 {
 
 	#main-page-intro h3 {
 		display: block;
+		text-align: center;
 		margin: 0 auto 20px auto;
 		width: 400px;
 		border-bottom: 1px solid #3b8293;
