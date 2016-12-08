@@ -7,13 +7,13 @@ body {
 }
 
 blockquote {
-	font: 16px 'Cantarell', sans-serif;
-	color: #3b8293;
+	font: 20px 'Cantarell', sans-serif;
+	color: #9C9C9C;
 	margin-top: 10px;
 	margin-bottom: 10px;
 	margin-left: 50px;
 	padding-left: 15px;
-	border-left: 2px solid #9C9C9C;
+	border-left: 2px solid #3b8293;
 } 
 
 
