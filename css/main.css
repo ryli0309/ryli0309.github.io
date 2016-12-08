@@ -58,7 +58,8 @@ h1 {
 		display: inline-block;
 		margin-top: 50px;
 
-	}
+
+}
 
 	header nav ul li a {
 
@@ -103,6 +104,25 @@ h3 {
 		padding: 0 0 20px 0;
 }
 
+
+	blockquote.style1 {
+		  font: 14px/20px italic Times, serif;
+		  padding: 8px;
+		  background-color: #faebbc;
+		  border-top: 1px solid #e1cc89;
+		  border-bottom: 1px solid #e1cc89;
+		  margin: 5px;
+		  background-image: url(images/openquote1.gif);
+		  background-position: top left;
+		  background-repeat: no-repeat;
+		  text-indent: 23px;
+		  }
+		  blockquote.style1 span {
+		     display: block;
+		     background-image: url(images/closequote1.gif);
+		     background-repeat: no-repeat;
+		     background-position: bottom right;
+		   }
 
 footer {
 
