@@ -124,13 +124,13 @@ h3 {
 }
 
 article h4 {
-	border-bottom: 1px solid #02b8dd;
+	border-bottom: 1px solid #3b8293;
 	padding-bottom: 20px;
 }
 
 .more-link {
-	border: 1px solid #02b8dd;
-	color: #02b8dd;
+	border: 1px solid #3b8293;
+	color: #3b8293;
 	padding: 6px 20px;
 	border-radius: 3px;
 }
@@ -149,15 +149,15 @@ article h4 {
 	display: block;
 	margin: 0 auto 20px auto;
 	width: 400px;
-	border-bottom: 1px solid #02b8dd;
+	border-bottom: 1px solid #3b8293;
 	padding: 0 0 20px 0;
 }
 
 .button-2 {
 	display: block;
 	margin: 0 auto;
-	border: 2px solid #02b8dd;
-	color: #02b8dd;
+	border: 2px solid #3b8293;
+	color: #3b8293;
 	border-radius: 3px;
 	width: 180px;
 	height: 50px;
@@ -166,7 +166,7 @@ article h4 {
 }
 
 .button-2:hover {
-	background-color: #02b8dd;
+	background-color: #3b8293;
 	color: #fff;
 }
 
