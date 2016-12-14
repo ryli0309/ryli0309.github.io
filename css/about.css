@@ -100,9 +100,48 @@ h3 {
 }
 
 
-#past-issues {
-	padding: 20px 0;
+#current-issue {
+	padding: 60px 0;
 	text-align: center;
+}
+
+#current-issue h3 {
+	display: block;
+	margin: 0 auto 20px auto;
+	width: 400px;
+	border-bottom: 1px solid #3b8293;
+	padding: 0 0 20px 0;
+}
+
+.button-2 {
+	display: block;
+	margin: 0 auto;
+	border: 2px solid #3b8293;
+	color: #3b8293;
+	border-radius: 3px;
+	width: 180px;
+	height: 50px;
+	font-size: 20px;
+	line-height: 50px;
+}
+
+.button-2:hover {
+	background-color: #3b8293;
+	color: #fff;
+}
+
+
+#past-issues {
+	padding: 60px 0;
+	text-align: center;
+}
+
+#past-issues h3 {
+	display: block;
+	margin: 0 auto 20px auto;
+	width: 400px;
+	border-bottom: 1px solid #3b8293;
+	padding: 0 0 20px 0;
 }
 
 #past-issues article {
@@ -136,36 +175,6 @@ article h4 {
 }
 
 .more-link:hover {
-	background-color: #02b8dd;
-	color: #fff;
-}
-
-#current-issue {
-	padding: 60px 0;
-	text-align: center;
-}
-
-#current-issue h3 {
-	display: block;
-	margin: 0 auto 20px auto;
-	width: 400px;
-	border-bottom: 1px solid #3b8293;
-	padding: 0 0 20px 0;
-}
-
-.button-2 {
-	display: block;
-	margin: 0 auto;
-	border: 2px solid #3b8293;
-	color: #3b8293;
-	border-radius: 3px;
-	width: 180px;
-	height: 50px;
-	font-size: 20px;
-	line-height: 50px;
-}
-
-.button-2:hover {
 	background-color: #3b8293;
 	color: #fff;
 }
