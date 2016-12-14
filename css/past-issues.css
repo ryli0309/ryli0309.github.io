@@ -1,0 +1,210 @@
+body {
+
+	background-color: #fff;
+	color: #777;
+	font: normal 12px Georgia, serif;
+
+}
+
+blockquote {
+	font: 16px 'Cantarell', sans-serif;
+	color: #9C9C9C;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+	padding-left: 15px;
+	border-left: 6px solid #3b8293;
+} 
+
+
+p {
+
+	line-height: 20px;
+	margin-bottom: 20px;
+
+}
+
+
+
+h1 {
+
+	font-family: 'Cantarell', sans-serif;
+	font-weight: normal;
+	color: #444;
+	font-size: 24px;
+	margin-bottom: 20px;
+
+}
+
+
+
+	header {
+
+		height: 120px;
+
+	}
+
+
+
+	header h1 {
+
+		float: left;
+		margin-top: 32px;
+
+	}
+
+
+
+	header nav {
+
+		float: right;
+
+	}
+
+
+
+	header nav ul li {
+
+		float: left;
+		display: inline-block;
+		margin-top: 50px;
+
+
+}
+
+	header nav ul li a {
+
+		color: #9C9C9C;
+		font-family: 'Cantarell', sans-serif;
+		font-weight: normal;
+		display: block;
+		margin-right: 20px;
+
+	}
+
+
+
+h3 {
+
+	text-align: center;
+	font-size: 24px;
+	color: #444;
+	font-family: 'Cantarell', sans-serif;
+	font-weight: normal;
+	margin-bottom: 20px;
+
+}
+
+	#main-text a img {
+
+		margin: 20px 0;
+
+	}
+
+	#main-page-intro {
+		padding: 60px 0;
+		text-align: left;
+}
+
+	#main-page-intro h3 {
+		display: block;
+		text-align: center;
+		margin: 0 auto 20px auto;
+		width: 400px;
+		border-bottom: 1px solid #3b8293;
+		padding: 0 0 20px 0;
+}
+
+#past-issues {
+	padding: 60px 0;
+	text-align: center;
+}
+
+#past-issues h3 {
+	display: block;
+	margin: 0 auto 20px auto;
+	width: 400px;
+	border-bottom: 1px solid #3b8293;
+	padding: 0 0 20px 0;
+}
+
+#past-issues article {
+	width: 460px;
+	height: 270px;
+	float: left;
+	background-color: #f5f5f5;
+}
+
+#past-issues article:first-child {
+	margin-right: 20px;
+}
+
+#past-issues article .overlay {
+	background: rgba(255, 255, 255, .95);
+	height: 230px;
+	width: 190px;
+	padding: 20px;
+}
+
+article h4 {
+	border-bottom: 1px solid #3b8293;
+	padding-bottom: 20px;
+}
+
+.more-link {
+	border: 1px solid #3b8293;
+	color: #3b8293;
+	padding: 6px 20px;
+	border-radius: 3px;
+}
+
+.more-link:hover {
+	background-color: #3b8293;
+	color: #fff;
+}
+
+
+footer {
+
+	padding: 60px 0;
+	background-color: #fff;
+
+}
+
+
+	#footer {
+
+		font-family: 'Cantarell', san-serif;
+		font-weight: normal;
+		font-size: 10px;
+		width: 380px;
+		float: left;
+		margin-top: 100px;
+
+}
+
+
+
+a {
+
+	text-decoration: none;
+	color: #444;
+
+}
+
+
+
+a:hover {
+
+	color: #444;
+
+}
+
+
+.wrapper {
+
+	margin: 0 auto;
+	padding: 0 10px;
+	width: 940px;
+
+}
