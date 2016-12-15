@@ -133,17 +133,20 @@ h3 {
 	height: 270px;
 	float: left;
 	background-color: #dcdcdc;
+	margin-bottom: 20px;
 }
 
 #past-issues article:first-child {
 	margin-right: 20px;
+	margin-bottom: 20px;
 }
 
 #past-issues article .overlay {
-	background: rgba(220, 220, 220, .95);
+	background: rgba(242, 242, 242, .95);
 	height: 230px;
 	width: 190px;
 	padding: 20px;
+	margin-bottom: 20px;
 }
 
 article h4 {
