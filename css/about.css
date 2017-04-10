@@ -13,7 +13,7 @@ blockquote {
 	margin-bottom: 10px;
 	margin-left: 50px;
 	padding-left: 15px;
-	border-left: 6px solid #bd6155;
+	border-left: 6px solid #2a3936;
 } 
 
 
@@ -95,7 +95,7 @@ h3 {
 		text-align: center;
 		margin: 0 auto 20px auto;
 		width: 400px;
-		border-bottom: 1px solid #bd6155;
+		border-bottom: 1px solid #2a3936;
 		padding: 0 0 20px 0;
 }
 
@@ -109,15 +109,15 @@ h3 {
 	display: block;
 	margin: 0 auto 20px auto;
 	width: 400px;
-	border-bottom: 1px solid #bd6155;
+	border-bottom: 1px solid #2a3936;
 	padding: 0 0 20px 0;
 }
 
 .button-2 {
 	display: block;
 	margin: 0 auto;
-	border: 2px solid #bd6155;
-	color: #bd6155;
+	border: 2px solid #2a3936;
+	color: #2a3936;
 	border-radius: 3px;
 	width: 180px;
 	height: 50px;
@@ -127,7 +127,7 @@ h3 {
 }
 
 .button-2:hover {
-	background-color: #bd6155;
+	background-color: #2a3936;
 	color: #fff;
 }
 
